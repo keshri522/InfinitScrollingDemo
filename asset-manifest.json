@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/InfinitScrollingDemo/static/css/main.cf07401f.css",
+    "main.js": "/InfinitScrollingDemo/static/js/main.a83d2083.js",
+    "index.html": "/InfinitScrollingDemo/index.html",
+    "main.cf07401f.css.map": "/InfinitScrollingDemo/static/css/main.cf07401f.css.map",
+    "main.a83d2083.js.map": "/InfinitScrollingDemo/static/js/main.a83d2083.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf07401f.css",
+    "static/js/main.a83d2083.js"
+  ]
+}
