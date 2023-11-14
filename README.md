@@ -29,6 +29,9 @@ This React application demonstrates infinite scrolling using a grid system, a lo
 
   #Installation
   -git clone https://github.com/your-username/infinite-scroll-react.git
+  
+    #Deployment
+  -https://keshri522.github.io/InfinitScrollingDemo/
 
 #Navigate to the project directory:
 
